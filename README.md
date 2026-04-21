@@ -91,6 +91,7 @@ This project demonstrated that model selection, preprocessing quality, and itera
 The transition from CNN to Swin Transformer clearly showed how modern architectures can better handle complex vision tasks like facial expression recognition.
 
 ---
+<img width="1457" height="868" alt="Screenshot 2026-01-25 031626" src="https://github.com/user-attachments/assets/6c6010c6-d382-4f36-9970-1aa12e0b0520" />
 
 ## 👩‍💻 Author
 
